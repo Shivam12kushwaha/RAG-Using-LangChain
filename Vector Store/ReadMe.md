@@ -12,3 +12,10 @@
 #### Semantic Search, RAG, Recommender System, Image or Multimedia Search.
 # Vector Stores in LangChain:
 ## Suppoerted Stored:
+#### LangChain integrates with the multiple vector stores FAISS, Pinecone, Chroma, Qdrant, Weaviate ect., giving you flexibility in scale, features and deployment.
+## Common Interface:
+#### A uniform Vector Store API lets you swap out one backend(eg,. FAISS) for another(eg,. Pinecone) with minimal code changes.
+## Meta Data Handling:
+#### Most Vector stores in LangChain allow you to attach metadata(eg,. Timestamp, Authors) to each document, enabling filtering based retrieval.
+# Chroma Vector Store:
+### Chroma is a lightweight, open source vector data base that especially friendly for local developement and small to medium-scale prediction needs.
