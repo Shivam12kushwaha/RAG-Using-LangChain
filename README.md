@@ -8,7 +8,7 @@
 #### (1) Document Loaders   (2) Text Spiltters (3) Vector Databases (4) Retrievers
 ### Most commonly used document loaders are:
 #### (1) Text Loader (2) PyPDF Loader (3) WebBase Loader (4) CSV Loader
-### ** RAG is way to make a language model like ChatGPT smarter by giving it extra information at the time you ask your question.
+### RAG is way to make a language model like ChatGPT smarter by giving it extra information at the time you ask your question.
 ## Understanding RAG:
 #### Rag can be divided into 4 steps-
 #### (a) Indexing (b) Retrieval (c) Augmentation (d) Generation
